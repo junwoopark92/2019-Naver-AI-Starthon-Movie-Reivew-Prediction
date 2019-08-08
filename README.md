@@ -26,3 +26,5 @@ Dataset: `16_tcls_movie`
 nsml run -d 16_tcls_movie -e main.py
 ```
 
+## ref
+https://github.com/lime-robot/product-categories-classification
