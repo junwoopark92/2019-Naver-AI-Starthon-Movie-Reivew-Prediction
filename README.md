@@ -1,4 +1,6 @@
 # 영화 리뷰를 이용한 평점 예측
+## 리더보드
+![leaderborad](https://user-images.githubusercontent.com/26558158/62705874-4d035400-ba29-11e9-89f0-bb56003fab9e.PNG)
 ## 문제설명
 네이버 영화 리뷰와 평점 기반으로 학습하여 새로운 리뷰의 평점을 분류(예측)하는 문제입니다.
 
